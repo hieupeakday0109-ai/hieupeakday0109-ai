@@ -6,7 +6,7 @@
 <div align="center">
   <!-- 2. TYPING EFFECT: CHỮ GÕ NÉT CĂNG VỚI FONT FIRA CODE ĐẬM NỔI BẬT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Welcome+to+HieuPeak's+Digital+Sanctuary!;%F0%9F%8E%A7+Vibing+with+SoundCloud+%E2%80%A2+Coding+with+Visual+Studio+Code;%F0%9F%94%A5+Check+my+profile+at+guns.lol%2Fhieupeak;%F0%9F%9A%80+Always+Evolving%2C+Always+Creating+Something+Epic!" width="100%" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Welcome+to+HieuPeak's+Digital+Sanctuary!;%F0%9F%8E%A7+Vibing+with+Code+%E2%80%A2+Coding+with+Visual+Studio+Code;%F0%9F%94%A5+Check+my+profile+at+guns.lol%2Fhieupeak;%F0%9F%9A%80+Always+Evolving%2C+Always+Creating+Something+Epic!" width="100%" alt="Typing Animation" />
   </a>
 </div>
 
