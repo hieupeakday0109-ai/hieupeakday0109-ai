@@ -68,13 +68,13 @@
 
 <br/>
 
-<!-- 5. GITHUB ANALYTICS & STREAKS: THỐNG KÊ GITHUB DARK TOKYONIGHT -->
+<!-- 5. GITHUB ANALYTICS & STREAKS: ĐÃ ĐỔI SANG SERVER FAST LOAD SIÊU TỐC KHÔNG BAO GIỜ LỖI -->
 <div align="center">
   <h2>📊 Live GitHub Statistics</h2>
   <table border="0">
     <tr align="center">
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hieupeakday0109-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&icon_color=00FFCC&text_color=ffffff&rank_icon=github" height="180" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=hieupeakday0109-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&icon_color=00FFCC&text_color=ffffff" height="180" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieupeakday0109-ai&theme=tokyonight&hide_border=true&background=000000&stroke=00f2fe&ring=00FFCC&fire=00f2fe&currStreakNum=00FFCC" height="180" alt="GitHub Streak" />
@@ -83,7 +83,7 @@
     <tr align="center">
       <td colspan="2">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieupeakday0109-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=ffffff" height="165" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hieupeakday0109-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=ffffff" height="165" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -100,15 +100,7 @@
 
 <br/>
 
-<!-- 7. CON RẮN ĂN COMMIT CHUYỂN ĐỘNG NỀN TỐI (DARK SNAKE) -->
-<div align="center">
-  <h2>🐍 Contribution Grid Snake</h2>
-  <img src="https://raw.githubusercontent.com/hieupeakday0109-ai/hieupeakday0109-ai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-</div>
-
-<br/>
-
-<!-- 8. FOOTER: SÓNG GRADIENT KẾT THÚC CỰC MƯỢT -->
+<!-- 7. FOOTER: SÓNG GRADIENT KẾT THÚC CỰC MƯỢT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=95&color=0:000000,25:0c051f,50:1a0b36,75:0c051f,100:000000&section=footer&reversal=false&fontAlign=50&animation=fadeIn" alt="Footer Banner" width="100%" />
 </div>
