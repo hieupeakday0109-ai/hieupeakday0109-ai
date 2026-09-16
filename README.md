@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- 1. HEADER BANNER: NỀN SÓNG LƯỢN CHUYỂN ĐỘNG 3D NEON ĐỈNH CAO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:0c051f,50:1a0b36,75:0c051f,100:000000&text=✦%20HIEUPEAK%20✦&section=header&reversal=false&fontAlign=50&fontAlignY=36&fontSize=70&fontColor=00f2fe&desc=%E2%9E%A4%20CREATIVE%20DEVELOPER%20%E2%80%A2%20TECH%20ENTHUSIAST%20%E2%80%A2%20GAMER&descAlign=50&descAlignY=56&descSize=19&descColor=00FFCC&animation=twinkling&stroke=00f2fe&strokeWidth=1.5" alt="HieuPeak Header" width="100%" />
+  <!-- 1. HEADER BANNER: SÓNG NỔI 3D NEON ĐEN CHUYỂN ĐỘNG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:0c051f,50:1a0b36,75:0c051f,100:000000&text=✦%20HIEUPEAK%20✦&section=header&reversal=false&fontAlign=50&fontAlignY=36&fontSize=70&fontColor=00f2fe&desc=%E2%9A%A1%20DEVELOPER%20%E2%80%A2%20GAMER%20%E2%80%A2%20TECH%20ENTHUSIAST%20%E2%9A%A1&descAlign=50&descAlignY=56&descSize=19&descColor=00FFCC&animation=twinkling&stroke=00f2fe&strokeWidth=1.5" alt="HieuPeak Header" width="100%" />
 </div>
 
 <div align="center">
-  <!-- 2. TYPING EFFECT: CHỮ GÕ NÉT CĂNG VỚI FONT FIRA CODE ĐẬM NỔI BẬT -->
+  <!-- 2. TYPING EFFECT: CHỮ GÕ NÉT CĂNG CHUYÊN VỀ CODE VÀ GAME -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Welcome+to+HieuPeak's+Digital+Sanctuary!;%F0%9F%8E%A7+Vibing+with+Code+%E2%80%A2+Coding+with+Visual+Studio+Code;%F0%9F%94%A5+Check+my+profile+at+guns.lol%2Fhieupeak;%F0%9F%9A%80+Always+Evolving%2C+Always+Creating+Something+Epic!" width="100%" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Welcome+to+HieuPeak's+Digital+Domain!;%F0%9F%8E%AE+Leveling+Up+in+Code+%26+Gaming!;%F0%9F%92%BB+Full-Stack+Architect+%E2%80%A2+Crafting+Modern+Apps;%F0%9F%8E%A7+Vibing+with+SoundCloud+%E2%80%A2+Code+in+VS+Code;%F0%9F%94%A5+Eat+%E2%80%A2+Sleep+%E2%80%A2+Code+%E2%80%A2+Game+%E2%80%A2+Repeat!;%E2%9A%A1+Always+Building%2C+Always+Shipping+Epic+Stuff!" width="100%" alt="Typing Animation" />
   </a>
 </div>
 
@@ -17,29 +17,42 @@
 
 <br/>
 
-<!-- 3. PROFILE BIO & SOCIAL CONNECTIONS TỪ GUNS.LOL/HIEUPEAK -->
+<!-- DISCORD REAL-TIME PRESENCE: HOẠT ĐỘNG, VS CODE, SOUNDCLOUD, GAME & ONLINE STATUS -->
 <div align="center">
-  <h2>⚡ Connect with Me ⚡</h2>
-  <p><i>Find me across the digital universe — from gaming to coding & media</i></p>
+  <a href="https://discord.com/users/1158679630266519563" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1158679630266519563?theme=dark&animated=true&bg=0a0a0a&borderRadius=12px" alt="Discord Presence" />
+  </a>
+</div>
+
+<br/>
+
+<!-- 3. SOCIAL & GAMING HUB: TOÀN BỘ KẾT NỐI TỪ GUNS.LOL/HIEUPEAK -->
+<div align="center">
+  <h2>🎮 Connect & Play with Me 🎮</h2>
+  <p><i>Find me across gaming, coding and media platforms</i></p>
 
   <a href="https://guns.lol/hieupeak" target="_blank">
     <img src="https://img.shields.io/badge/guns.lol-hieupeak-black?style=for-the-badge&logo=target&logoColor=00FFCC&labelColor=0a0a0a" alt="guns.lol" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/profile.php?id=100093105391256" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Hieupeak-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://tiktok.com/@lqa11411?_r=1&_t=ZS-99N3Wk4GAYZ" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@lqa11411-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" />
+  <a href="https://discord.com/users/1158679630266519563" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-hieutoilet.m-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" />
   </a>
   &nbsp;
   <a href="https://xbox.com/play/user/Hieupeak7238" target="_blank">
     <img src="https://img.shields.io/badge/Xbox-Hieupeak7238-107C10?style=for-the-badge&logo=xbox&logoColor=white&labelColor=0a0a0a" alt="Xbox" />
   </a>
   &nbsp;
+  <a href="https://tiktok.com/@lqa11411?_r=1&_t=ZS-99N3Wk4GAYZ" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@lqa11411-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" />
+  </a>
+  &nbsp;
   <a href="https://reddit.com/user/Hieupeak0109/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-Hieupeak0109-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0a0a0a" alt="Reddit" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/profile.php?id=100093105391256" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Hieupeak-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" alt="Facebook" />
   </a>
 </div>
 
@@ -52,7 +65,7 @@
 
 <br/>
 
-<!-- 4. TECH STACK & TOOLS: ICON CHUYỂN ĐỘNG BO GÓC NỔI BẬT TRÊN NỀN TỐI -->
+<!-- 4. TECH STACK & GAMING ARSENAL -->
 <div align="center">
   <h2>🛠️ Tech Stack & Arsenal</h2>
   <a href="https://skillicons.dev">
@@ -68,9 +81,9 @@
 
 <br/>
 
-<!-- 5. GITHUB ANALYTICS & STREAKS: ĐÃ ĐỔI SANG SERVER FAST LOAD SIÊU TỐC KHÔNG BAO GIỜ LỖI -->
+<!-- 5. GITHUB ANALYTICS & CHUỖI HOẠT ĐỘNG (STREAK STATS) -->
 <div align="center">
-  <h2>📊 Live GitHub Statistics</h2>
+  <h2>📊 Live GitHub Statistics & Activity</h2>
   <table border="0">
     <tr align="center">
       <td>
@@ -91,11 +104,13 @@
 
 <br/>
 
-<!-- 6. HUY HIỆU LƯỢT XEM PROFILE NỔI BẬT -->
+<!-- 6. HUY HIỆU HOẠT ĐỘNG & LƯỢT XEM HỒ SƠ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hieupeakday0109-ai&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00FFCC?style=for-the-badge&logoColor=black" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/GAMING-XBOX%20%7C%20PC-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Gaming" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DEV-FULLSTACK-00FFCC?style=for-the-badge&logoColor=black" alt="Status Badge" />
 </div>
 
 <br/>
