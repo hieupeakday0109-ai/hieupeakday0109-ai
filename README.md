@@ -15,6 +15,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" />
 </div>
 
+<!-- GAME ANIMATION 1: DẢI HOẠT ẢNH PAC-MAN ARCADE ĐUỔI BẮT NEON GHOST -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" height="25" alt="Pacman Game Animation" />
+</div>
+
 <br/>
 
 <!-- DISCORD REAL-TIME PRESENCE: HOẠT ĐỘNG, VS CODE, SOUNDCLOUD, GAME & ONLINE STATUS -->
@@ -100,6 +105,14 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<!-- GAME ANIMATION 2: RẮN SĂN MỒI ARCADE SNAKE ĂN Ô COMMIT TRÊN GITHUB -->
+<div align="center">
+  <h2>🐍 Arcade Snake: Eating My Contributions</h2>
+  <img src="https://raw.githubusercontent.com/hieupeakday0109-ai/hieupeakday0109-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Game" width="100%" />
 </div>
 
 <br/>
