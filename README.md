@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1. HEADER BANNER: SÓNG NỔI 3D NEON ĐEN CHUYỂN ĐỘNG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:0c051f,50:1a0b36,75:0c051f,100:000000&text=✦%20HIEUPEAK%20✦&section=header&reversal=false&fontAlign=50&fontAlignY=36&fontSize=70&fontColor=00f2fe&desc=%E2%9A%A1%20DEVELOPER%20%E2%80%A2%20GAMER%20%E2%80%A2%20TECH%20ENTHUSIAST%20%E2%9A%A1&descAlign=50&descAlignY=56&descSize=19&descColor=00FFCC&animation=twinkling&stroke=00f2fe&strokeWidth=1.5" alt="HieuPeak Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=230&color=0:120005,40:2e0011,75:590022,100:8c0033&text=%E2%9C%A6%20HIEUPEAK%20%E2%9C%A6&fontColor=ff8800&stroke=ffe600&strokeWidth=2&desc=%E2%9A%A1%20DEVELOPER%20%E2%80%A2%20GAMER%20%E2%80%A2%20TECH%20ENTHUSIAST%20%E2%9A%A1&animation=blinking&fontAlignY=42&descAlignY=66" alt="HieuPeak Header" width="100%" />
 </div>
 
 <div align="center">
