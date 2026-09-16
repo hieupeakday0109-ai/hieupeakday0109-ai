@@ -15,9 +15,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" />
 </div>
 
-<!-- PAC-MAN ARCADE ANIMATION: GIỮ ĐÚNG TỈ LỆ GỐC KHÔNG BỊ ÉP DẸP -->
+<!-- PAC-MAN ARCADE: ĂN CHẤM & ĐUỔI MA RETRO (TỈ LỆ GỐC CHUẨN, KHÔNG BỊ ÉP DẸP) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="32" alt="Pacman Arcade" />
+  <img src="https://raw.githubusercontent.com/Mayank-Mallick/Mayank-Mallick/master/assets/pacman.gif" height="36" alt="Pac-Man Arcade" />
 </div>
 
 <br/>
@@ -109,7 +109,7 @@
 
 <br/>
 
-<!-- GAME ANIMATION: RẮN SĂN MỒI ARCADE SNAKE ĂN Ô COMMIT TRÊN GITHUB -->
+<!-- ARCADE GAME: RẮN SĂN MỒI SNAKE ĂN Ô COMMIT TRÊN GITHUB -->
 <div align="center">
   <h2>🐍 Arcade Snake: Eating My Contributions</h2>
   <img src="https://raw.githubusercontent.com/hieupeakday0109-ai/hieupeakday0109-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Game" width="100%" />
