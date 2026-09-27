@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Xbox-Hieupeak7238-107C10?style=for-the-badge&logo=xbox&logoColor=white&labelColor=0a0a0a" alt="Xbox" />
   </a>
   &nbsp;
-  <a href="https://tiktok.com/@lqa11411?_r=1&_t=ZS-99N3Wk4GAYZ" target="_blank">
+  <a href="https://www.tiktok.com/@nhh2ler11" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@lqa11411-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" />
   </a>
   &nbsp;
