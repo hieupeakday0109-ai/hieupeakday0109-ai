@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="100%" height="80">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070709" />
+      <stop offset="50%" stop-color="#0f0f14" />
+      <stop offset="100%" stop-color="#070709" />
+    </linearGradient>
+    <linearGradient id="silverLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272a" stop-opacity="0" />
+      <stop offset="50%" stop-color="#52525b" />
+      <stop offset="100%" stop-color="#27272a" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="996" height="76" rx="10" fill="url(#footerBg)" stroke="#27272a" stroke-width="1" />
+  <line x1="100" y1="2" x2="900" y2="2" stroke="url(#silverLine)" stroke-width="1.5" />
+
+  <g font-family="'JetBrains Mono', monospace" font-size="11" fill="#71717a">
+    <text x="500" y="38" text-anchor="middle" letter-spacing="3" fill="#a1a1aa">
+      HIEUPEAK // ZERO RUNTIME COMPROMISE • CRAFTED WITH OBSIDIAN PRECISION
+    </text>
+    <text x="500" y="56" text-anchor="middle" font-size="9.5" letter-spacing="1.5" fill="#52525b">
+      ALL SYSTEMS NOMINAL • CONTINUOUS REFACTORING CYCLE • 2026
+    </text>
+  </g>
+</svg>
