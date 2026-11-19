@@ -167,11 +167,11 @@
 
 <br/>
 
-<!-- 7. NEURAL SNAKE: GAME RẮN ĂN COMMIT CHUYỂN ĐỘNG TRỰC TIẾP -->
+<!-- 7. GTA VI VICE CITY DRIFT: SIÊU XE GTA 6 ĐUA TRÊN GRID COMMIT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&color=00FFCC&center=true&vCenter=true&width=550&height=35&lines=%F0%9F%90%8D+CYBER+SNAKE%3A+EATING+COMMIT+VECTORS+%F0%9F%90%8D" alt="Snake Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&color=00F2FE&center=true&vCenter=true&width=620&height=35&lines=%F0%9F%8F%8E%EF%B8%8F+GTA+VI+VICE+CITY%3A+MERGE+%26+COMMIT+TO+THE+DRIVE+%F0%9F%8F%8E%EF%B8%8F;%E2%9A%A1+SUPERCAR+DRIFTING+ACROSS+CONTRIBUTION+GRID+%E2%9A%A1;%F0%9F%8C%B4+VICE+CITY+NEON+VIBES+%E2%80%A2+MAX+RPM+%F0%9F%94%A5" alt="GTA VI Drive Animation" />
   <br/>
-  <img src="https://raw.githubusercontent.com/hieupeakday0109-ai/hieupeakday0109-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/hieupeakday0109-ai/hieupeakday0109-ai/main/assets/gta6-contribution.gif" alt="GTA VI Contribution Grid Drift" width="100%" />
 </div>
 
 <br/>
