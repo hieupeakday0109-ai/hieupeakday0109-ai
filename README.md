@@ -4,9 +4,13 @@
 </div>
 
 <div align="center">
-  <!-- 2. HIGH-PRECISION DYNAMIC TERMINAL (JETBRAINS MONO TITANIUM SILVER) -->
+  <!-- 2. HIGH-PRECISION DYNAMIC TERMINAL (ADAPTIVE TITANIUM / OBSIDIAN) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=E2E8F0&center=true&vCenter=true&width=860&lines=%E2%96%B8+Architecting+Autonomous+AI+Agents+%26+Next-Gen+Platforms;%E2%96%B8+Engineering+Resilient+Distributed+Systems+%E2%80%A2+Clean+Code;%E2%96%B8+Zero+Runtime+Compromise+%E2%80%A2+Obsidian+Precision;%E2%96%B8+Operating+at+Apex+Flow+State+%E2%80%A2+Every+Single+Commit" width="100%" alt="Typing Terminal" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=F8FAFC&center=true&vCenter=true&width=860&lines=%E2%96%B8+Architecting+Autonomous+AI+Agents+%26+Next-Gen+Platforms;%E2%96%B8+Engineering+Resilient+Distributed+Systems+%E2%80%A2+Clean+Code;%E2%96%B8+Zero+Runtime+Compromise+%E2%80%A2+Obsidian+Precision;%E2%96%B8+Operating+at+Apex+Flow+State+%E2%80%A2+Every+Single+Commit">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=09090B&center=true&vCenter=true&width=860&lines=%E2%96%B8+Architecting+Autonomous+AI+Agents+%26+Next-Gen+Platforms;%E2%96%B8+Engineering+Resilient+Distributed+Systems+%E2%80%A2+Clean+Code;%E2%96%B8+Zero+Runtime+Compromise+%E2%80%A2+Obsidian+Precision;%E2%96%B8+Operating+at+Apex+Flow+State+%E2%80%A2+Every+Single+Commit">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=09090B&center=true&vCenter=true&width=860&lines=%E2%96%B8+Architecting+Autonomous+AI+Agents+%26+Next-Gen+Platforms;%E2%96%B8+Engineering+Resilient+Distributed+Systems+%E2%80%A2+Clean+Code;%E2%96%B8+Zero+Runtime+Compromise+%E2%80%A2+Obsidian+Precision;%E2%96%B8+Operating+at+Apex+Flow+State+%E2%80%A2+Every+Single+Commit" width="100%" alt="Typing Terminal" />
+    </picture>
   </a>
 </div>
 
