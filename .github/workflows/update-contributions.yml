@@ -1,0 +1,53 @@
+name: Update GTA VI Contribution Animation
+
+on:
+  schedule:
+    # Runs at 00:00 UTC daily
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pillow numpy beautifulsoup4
+
+      - name: Run Contribution Generator
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python scripts/generate_gta_contributions.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/gta6-contribution.gif
+          if git diff --staged --quiet; then
+            echo "No changes to contribution GIF."
+          else
+            git commit -m "chore(auto): synchronize GTA 6 contribution animation [skip ci]"
+            git push
+          fi
