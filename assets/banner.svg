@@ -102,7 +102,7 @@
     <circle cx="36" cy="34" r="3.2" fill="#10b981" />
     <text x="50" y="38" letter-spacing="1.4" fill="#a1a1aa" font-weight="600">NODE // HP-0109 • ONLINE</text>
     <text x="500" y="38" text-anchor="middle" letter-spacing="2.2" fill="#71717a">AUTONOMOUS AGENT CORE</text>
-    <text x="964" y="38" text-anchor="end" letter-spacing="1.2" fill="#a1a1aa">SYNCED // 2026-11-26 19:55 UTC+7</text>
+    <text x="964" y="38" text-anchor="end" letter-spacing="1.2" fill="#a1a1aa">SYNCED // 2026-11-26 20:06 UTC+7</text>
   </g>
   <line x1="32" y1="54" x2="968" y2="54" stroke="#232430" stroke-width="1" />
 
