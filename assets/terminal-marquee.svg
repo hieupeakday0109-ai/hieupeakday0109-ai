@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 50" width="100%" height="50" role="img" aria-label="Dynamic Command Terminal">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    @keyframes cycleLine {
+      0%, 4% { opacity: 0; transform: translateY(7px); }
+      8%, 22% { opacity: 1; transform: translateY(0px); }
+      26%, 100% { opacity: 0; transform: translateY(-7px); }
+    }
+    @keyframes blinkCursor {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0.15; }
+    }
+    .line { opacity: 0; animation: cycleLine 16s cubic-bezier(0.22, 1, 0.36, 1) infinite; }
+    .cursor { animation: blinkCursor 1.1s steps(2, end) infinite; }
+  </style>
+  <rect x="2" y="2" width="996" height="46" rx="10" fill="#0c0c12" stroke="#232430" stroke-width="1.2" />
+  <rect x="14" y="13" width="44" height="24" rx="6" fill="#13141c" stroke="#232430" stroke-width="1" />
+  <text x="36" y="29" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#38bdf8">&gt;_</text>
+  <text x="74" y="31" class="mono line line-0" font-size="13.5" font-weight="600" fill="#f8fafc" style="animation-delay:0s">Distilling agent failure traces into deterministic tool abstractions</text><text x="74" y="31" class="mono line line-1" font-size="13.5" font-weight="600" fill="#f8fafc" style="animation-delay:4s">Engineering 60 FPS TrueColor ASCII &amp; real-time RF/BLE radar suites</text><text x="74" y="31" class="mono line line-2" font-size="13.5" font-weight="600" fill="#f8fafc" style="animation-delay:8s">Zero-dependency defensive web security auditing &amp; enterprise hardening</text><text x="74" y="31" class="mono line line-3" font-size="13.5" font-weight="600" fill="#f8fafc" style="animation-delay:12s">Operating at Apex Flow State • Continuous Iteration • Every Commit</text>
+  <rect x="970" y="16" width="8" height="18" rx="2" fill="#38bdf8" class="cursor" />
+</svg>

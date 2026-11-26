@@ -1,26 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="100%" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 88" width="100%" height="88" role="img" aria-label="HieuPeak Footer">
   <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#070709" />
-      <stop offset="50%" stop-color="#0f0f14" />
+      <stop offset="50%" stop-color="#0c0c12" />
       <stop offset="100%" stop-color="#070709" />
     </linearGradient>
-    <linearGradient id="silverLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#27272a" stop-opacity="0" />
-      <stop offset="50%" stop-color="#52525b" />
-      <stop offset="100%" stop-color="#27272a" stop-opacity="0" />
+    <linearGradient id="fLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#232430" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#232430" stop-opacity="0" />
     </linearGradient>
   </defs>
-
-  <rect x="2" y="2" width="996" height="76" rx="10" fill="url(#footerBg)" stroke="#27272a" stroke-width="1" />
-  <line x1="100" y1="2" x2="900" y2="2" stroke="url(#silverLine)" stroke-width="1.5" />
-
-  <g font-family="'JetBrains Mono', monospace" font-size="11" fill="#71717a">
-    <text x="500" y="38" text-anchor="middle" letter-spacing="3" fill="#a1a1aa">
-      HIEUPEAK // ZERO RUNTIME COMPROMISE • CRAFTED WITH OBSIDIAN PRECISION
-    </text>
-    <text x="500" y="56" text-anchor="middle" font-size="9.5" letter-spacing="1.5" fill="#52525b">
-      ALL SYSTEMS NOMINAL • CONTINUOUS REFACTORING CYCLE • 2026
-    </text>
-  </g>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  </style>
+  <rect x="2" y="2" width="996" height="84" rx="14" fill="url(#fBg)" stroke="#232430" stroke-width="1.4" />
+  <line x1="120" y1="2" x2="880" y2="2" stroke="url(#fLine)" stroke-width="2" />
+  <path d="M 16 26 L 16 14 L 28 14" fill="none" stroke="#383a4d" stroke-width="1.4" />
+  <path d="M 984 26 L 984 14 L 972 14" fill="none" stroke="#383a4d" stroke-width="1.4" />
+  <text x="500" y="38" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" letter-spacing="2.8" fill="#f8fafc">
+    HIEUPEAK // ZERO RUNTIME COMPROMISE • OBSIDIAN TITANIUM ARCHITECTURE
+  </text>
+  <text x="500" y="60" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.6" fill="#71717a">
+    ALL SYSTEMS NOMINAL • CONTINUOUS CI/CD TELEMETRY • LAST SYNC 2026-11-26 19:55 UTC+7
+  </text>
 </svg>

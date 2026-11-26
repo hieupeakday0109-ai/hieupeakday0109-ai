@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 154" width="100%" height="154" role="img" aria-label="Failure-to-Tool-Distiller">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="2" y="2" width="486" height="150" rx="12" fill="#0c0c12" stroke="#232430" stroke-width="1.4" />
+  <rect x="24" y="2" width="120" height="2.5" rx="1" fill="#94a3b8" />
+
+  <!-- Icon Container -->
+  <rect x="20" y="20" width="34" height="34" rx="8" fill="#13141c" stroke="#232430" stroke-width="1" />
+  <g transform="translate(25, 25)"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" stroke="#94a3b8" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="3.5" fill="none" stroke="#94a3b8" stroke-width="1.8"/></g>
+
+  <!-- Title & Index -->
+  <text x="66" y="34" class="sans" font-size="15.5" font-weight="700" fill="#f8fafc">Failure-to-Tool-Distiller</text>
+  <text x="66" y="50" class="mono" font-size="10" fill="#71717a">MOD // 01 • PUBLIC REPOSITORY</text>
+
+  <!-- Top-Right Launch Arrow -->
+  <rect x="442" y="20" width="28" height="28" rx="7" fill="#13141c" stroke="#232430" stroke-width="1" />
+  <path d="M452 38l8-8m0 0h-6m6 0v6" fill="none" stroke="#a1a1aa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Description -->
+  <text x="20" y="80" class="sans" font-size="12.5" fill="#a1a1aa">Distills agent execution failure traces into</text>
+  <text x="20" y="99" class="sans" font-size="12.5" fill="#a1a1aa">deterministic reusable tool primitives and automated...</text>
+
+  <!-- Bottom Meta Bar -->
+  <line x1="20" y1="118" x2="470" y2="118" stroke="#232430" stroke-width="1" />
+  <circle cx="27" cy="134" r="4.5" fill="#94a3b8" />
+  <text x="38" y="138" class="mono" font-size="11" font-weight="600" fill="#f8fafc">Markdown</text>
+  <text x="155" y="138" class="mono" font-size="11" fill="#f59e0b">★ 0</text>
+  <text x="215" y="138" class="mono" font-size="11" fill="#71717a">⑂ 0</text>
+  <text x="470" y="138" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#94a3b8">INSPECT →</text>
+</svg>

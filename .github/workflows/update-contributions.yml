@@ -1,16 +1,26 @@
-name: Update GTA VI Contribution Animation
+name: Sync Obsidian Profile Telemetry & Assets
 
 on:
   schedule:
     # Runs at 00:00 UTC daily
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - 'design/**'
+      - 'requirements.txt'
+      - 'README.md'
+      - '.github/workflows/update-contributions.yml'
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build-and-verify:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -31,23 +41,28 @@ jobs:
 
       - name: Install Python Dependencies
         run: |
-          pip install --upgrade pip
-          pip install pillow numpy beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run Contribution Generator
+      - name: Build Profile Telemetry, SVGs & Drift Highway
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/generate_gta_contributions.py
+          python scripts/build_profile.py
 
-      - name: Commit & Push Changes
+      - name: Validate Generated Assets & README Integrity
+        run: |
+          python scripts/validate_repo.py
+
+      - name: Commit & Push Updated Assets
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/gta6-contribution.gif
+          git add assets/
           if git diff --staged --quiet; then
-            echo "No changes to contribution GIF."
+            echo "No changes to profile assets."
           else
-            git commit -m "chore(auto): synchronize GTA 6 contribution animation [skip ci]"
+            git commit -m "chore(auto): sync obsidian telemetry & drift highway [skip ci]"
             git push
           fi
