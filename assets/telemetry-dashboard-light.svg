@@ -47,7 +47,7 @@
   <rect x="266" y="54" width="226" height="92" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
   <rect x="266" y="54" width="226" height="3" rx="1.5" fill="#059669" />
   <text x="282" y="78" class="mono" font-size="10" letter-spacing="1.2" fill="#64748b">STREAK CADENCE</text>
-  <text x="282" y="114" class="sans" font-size="30" font-weight="800" fill="#09090b">1 <tspan font-size="14" font-weight="600" fill="#059669">DAYS</tspan></text>
+  <text x="282" y="114" class="sans" font-size="30" font-weight="800" fill="#09090b">0 <tspan font-size="14" font-weight="600" fill="#059669">DAYS</tspan></text>
   <text x="282" y="134" class="mono" font-size="10" fill="#334155">Longest: 2d • Peak 2026-09-16</text>
 
   <!-- KPI 3 -->
@@ -62,7 +62,7 @@
   <rect x="750" y="54" width="226" height="3" rx="1.5" fill="#d97706" />
   <text x="766" y="78" class="mono" font-size="10" letter-spacing="1.2" fill="#64748b">PRIMARY RUNTIME</text>
   <text x="766" y="114" class="sans" font-size="26" font-weight="800" fill="#09090b">Python</text>
-  <text x="766" y="134" class="mono" font-size="10" fill="#334155">63.3% share • 30.2% JavaScript</text>
+  <text x="766" y="134" class="mono" font-size="10" fill="#334155">87.2% share • 10.6% JavaScript</text>
 
   <!-- Row 2 Panel A: 52-Week Velocity Curve -->
   <rect x="24" y="162" width="432" height="162" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
@@ -83,28 +83,28 @@
   <text x="492" y="186" class="mono" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#09090b">LANGUAGE MATRIX</text>
   <text x="742" y="186" text-anchor="end" class="mono" font-size="10" fill="#64748b">BYTE-EXACT</text>
   <g clip-path="url(#langBarClip)">
-    <rect x="492.0" y="208" width="158.5" height="10" fill="#38bdf8" /><rect x="650.5" y="208" width="75.6" height="10" fill="#f59e0b" /><rect x="726.1" y="208" width="11.1" height="10" fill="#10b981" /><rect x="737.2" y="208" width="3.5" height="10" fill="#94a3b8" /><rect x="740.7" y="208" width="2.0" height="10" fill="#60a5fa" />
+    <rect x="492.0" y="208" width="218.0" height="10" fill="#38bdf8" /><rect x="710.0" y="208" width="26.5" height="10" fill="#f59e0b" /><rect x="736.4" y="208" width="3.9" height="10" fill="#10b981" /><rect x="740.3" y="208" width="2.0" height="10" fill="#94a3b8" /><rect x="742.3" y="208" width="2.0" height="10" fill="#60a5fa" />
   </g>
   
         <circle cx="497" cy="234.5" r="4" fill="#38bdf8" />
         <text x="508" y="238" class="sans" font-size="11.5" font-weight="600" fill="#09090b">Python</text>
-        <text x="742" y="238" text-anchor="end" class="mono" font-size="11" fill="#334155">63.30%</text>
+        <text x="742" y="238" text-anchor="end" class="mono" font-size="11" fill="#334155">87.15%</text>
         
         <circle cx="497" cy="253.5" r="4" fill="#f59e0b" />
         <text x="508" y="257" class="sans" font-size="11.5" font-weight="600" fill="#09090b">JavaScript</text>
-        <text x="742" y="257" text-anchor="end" class="mono" font-size="11" fill="#334155">30.19%</text>
+        <text x="742" y="257" text-anchor="end" class="mono" font-size="11" fill="#334155">10.58%</text>
         
         <circle cx="497" cy="272.5" r="4" fill="#10b981" />
         <text x="508" y="276" class="sans" font-size="11.5" font-weight="600" fill="#09090b">Shell</text>
-        <text x="742" y="276" text-anchor="end" class="mono" font-size="11" fill="#334155">4.45%</text>
+        <text x="742" y="276" text-anchor="end" class="mono" font-size="11" fill="#334155">1.56%</text>
         
         <circle cx="497" cy="291.5" r="4" fill="#94a3b8" />
         <text x="508" y="295" class="sans" font-size="11.5" font-weight="600" fill="#09090b">Batchfile</text>
-        <text x="742" y="295" text-anchor="end" class="mono" font-size="11" fill="#334155">1.39%</text>
+        <text x="742" y="295" text-anchor="end" class="mono" font-size="11" fill="#334155">0.49%</text>
         
         <circle cx="497" cy="310.5" r="4" fill="#60a5fa" />
         <text x="508" y="314" class="sans" font-size="11.5" font-weight="600" fill="#09090b">PowerShell</text>
-        <text x="742" y="314" text-anchor="end" class="mono" font-size="11" fill="#334155">0.52%</text>
+        <text x="742" y="314" text-anchor="end" class="mono" font-size="11" fill="#334155">0.18%</text>
         
 
   <!-- Row 2 Panel C: Weekly Cadence -->

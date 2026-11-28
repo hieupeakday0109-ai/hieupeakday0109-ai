@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "username": "hieupeakday0109-ai",
-  "synced_at": "2026-11-27 12:40 UTC+7",
+  "synced_at": "2026-11-28 12:18 UTC+7",
   "user": {
     "login": "hieupeakday0109-ai",
     "public_repos": 8,
@@ -15,7 +15,7 @@
     "total_contributions": 25,
     "active_days": 12,
     "max_level": 4,
-    "current_streak": 1,
+    "current_streak": 0,
     "longest_streak": 2,
     "peak_day": {
       "col": 42,
@@ -2754,45 +2754,46 @@
         "date": "2026-11-27",
         "level": 0,
         "count": 0
+      },
+      {
+        "col": 52,
+        "row": 6,
+        "date": "2026-11-28",
+        "level": 0,
+        "count": 0
       }
     ]
   },
   "languages": [
     {
       "name": "Python",
-      "bytes": 188671,
-      "percent": 63.3,
+      "bytes": 741420,
+      "percent": 87.15,
       "color": "#38bdf8"
     },
     {
       "name": "JavaScript",
       "bytes": 89977,
-      "percent": 30.19,
+      "percent": 10.58,
       "color": "#f59e0b"
     },
     {
       "name": "Shell",
       "bytes": 13248,
-      "percent": 4.45,
+      "percent": 1.56,
       "color": "#10b981"
     },
     {
       "name": "Batchfile",
       "bytes": 4143,
-      "percent": 1.39,
+      "percent": 0.49,
       "color": "#94a3b8"
     },
     {
       "name": "PowerShell",
       "bytes": 1551,
-      "percent": 0.52,
+      "percent": 0.18,
       "color": "#60a5fa"
-    },
-    {
-      "name": "C++",
-      "bytes": 446,
-      "percent": 0.15,
-      "color": "#f43f5e"
     }
   ],
   "featured_repos": [
@@ -2801,11 +2802,11 @@
       "description": "Distills agent execution failure traces into deterministic reusable tool primitives and automated recovery guards.",
       "stars": 0,
       "forks": 0,
-      "language": "Markdown",
-      "language_color": "#94a3b8",
+      "language": "Python",
+      "language_color": "#38bdf8",
       "html_url": "https://github.com/hieupeakday0109-ai/Failure-to-Tool-Distiller",
-      "updated_at": "2026-11-26T12:25:47Z",
-      "size_kb": 0
+      "updated_at": "2026-11-27T06:52:33Z",
+      "size_kb": 151
     },
     {
       "name": "Video-to-ASCII",
